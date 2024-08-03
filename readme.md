@@ -4,9 +4,10 @@
         TOKEN= <seu_token_aqui>
         CLIENT_ID= <client_id_aqui>
         GUILD_ID= <guild_id_aqui>
+
 2. node deploy-commands.js
 3. node .
 
-- O comando está em ./commands/utility
+- O comando "Guias" está em ./commands/utility
 - O handler dele está em ./handlers
-- As informações estão sendo puxadas de ./commands/utility/guias.json
+- As informações do comando "guias" estão sendo puxadas de ./commands/utility/guias.json
