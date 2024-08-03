@@ -1,0 +1,27 @@
+{
+    "spigot": {
+      "label": "Minecraft Spigot",
+      "description": "Veja como criar um servidor Minecraft Spigot",
+      "url": "https://www.spigotmc.org/wiki/spigot-installation/"
+    },
+    "javascript": {
+      "label": "JavaScript",
+      "description": "Veja a documentação de JavaScript",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    },
+    "discordjs": {
+      "label": "Discord.js",
+      "description": "Veja a documentação de Discord.js",
+      "url": "https://discord.js.org/#/docs/main/stable/general/welcome"
+    },
+    "python": {
+      "label": "Python",
+      "description": "Veja a documentação de Python",
+      "url": "https://docs.python.org/3/"
+    },
+    "csharp": {
+      "label": "C#",
+      "description": "Veja a documentação de C#",
+      "url": "https://docs.microsoft.com/en-us/dotnet/csharp/"
+    }
+  }
